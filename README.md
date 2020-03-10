@@ -1,0 +1,1 @@
+//Project google-homepage is meant to give experience with html and css, by assigning the student with the task of coding from the ground up an imitation of the google homepage. From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
